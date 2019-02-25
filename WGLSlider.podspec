@@ -17,7 +17,7 @@ Pod::Spec.new do |spec|
 
   spec.name         = "WGLSlider"
   spec.version      = "0.0.1"
-  spec.summary      = "This is a category display component."
+  spec.summary      = "This is a custom slider component to expand touch rect."
 
   # This description is used to generate tags and improve search results.
   #   * Think: What does it do? Why did you write it? What is the focus?
