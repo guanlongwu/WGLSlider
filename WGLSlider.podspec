@@ -16,7 +16,7 @@ Pod::Spec.new do |spec|
   #
 
   spec.name         = "WGLSlider"
-  spec.version      = "0.0.1"
+  spec.version      = "0.0.3"
   spec.summary      = "This is a custom slider component to expand touch rect."
 
   # This description is used to generate tags and improve search results.

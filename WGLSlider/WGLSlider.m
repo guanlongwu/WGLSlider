@@ -8,8 +8,8 @@
 
 #import "WGLSlider.h"
 
-#define thumbBound_x 10
-#define thumbBound_y 20
+#define thumbBound_x 10     //为slider触发范围左右值各增加为thumbBound_x
+#define thumbBound_y 20     //为slider触发范围上下值各增加为thumbBound_y
 
 @interface WGLSlider () {
     CGRect lastBounds;
